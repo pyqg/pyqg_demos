@@ -2,7 +2,7 @@
 
 # pyqg_demos
 
-A collection of [pyqg](https://github.com/pyqg/pyqg) demos that are executed on the [cloud](http://nbviewer.ipython.org/github/pyqg/pyqg_demos/blob/master/index.ipynb).
+A collection of [pyqg](https://github.com/pyqg/pyqg) demos that are executed on the [cloud](http://app.mybinder.org/2028216009/notebooks/index.ipynb).
 # Contributing
 
 The workflow for contributing to `pyqg_demos` is similar
