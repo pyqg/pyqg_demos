@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/pyqg/pyqg_demos)
+
 # pyqg_demos
 
 A collection of [pyqg](https://github.com/pyqg/pyqg) demos that are executed on the [cloud](http://nbviewer.ipython.org/github/pyqg/pyqg_demos/blob/master/index.ipynb).
